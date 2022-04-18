@@ -37,7 +37,7 @@ function DisplayTask(result)
 }
 //Display Task-End
 
-//Operations Arguments -Start
+//Commands-Start
 const yarg = require('yargs');
 
 yarg.command({
@@ -178,4 +178,4 @@ yarg.command({
 });
 
 yarg.parse()
-//Operations Arguments -End
+//Commands-End
