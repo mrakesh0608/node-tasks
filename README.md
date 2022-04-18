@@ -2,7 +2,7 @@
 
 Run this cmd before using "npm i"
 
-//Commands
+//Commands-start
 
 to create task => node app create --title="<title-name>" --desc="<desc>"
 
@@ -13,6 +13,7 @@ to update task => node app update --id="<id>"
 to delete task -> node app delete --id="<id>"
   
 to read all completed => node app readCompleted
+
 //Commands-End
   
 
