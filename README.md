@@ -8,7 +8,7 @@ to create task => node app create --title="<title-name>" --desc="<desc>"
 
 to read task => node app read
   
-to update task => node app update --id="<id>"
+to update task as completed=> node app update --id="<id>"
   
 to delete task -> node app delete --id="<id>"
   
